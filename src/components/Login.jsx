@@ -2,6 +2,7 @@ import { defaults } from "autoprefixer"
 import '../components/styles.css'
 function Login() {
     return (
+        uyfuyf
     //     <div>
              
     //   {/* <img src="image/Logo Kementerian Kesehatan (Kemenkes) Republik Indonesia (PNG-2160p) - FileVector69 1.png" alt="Logo Kementerian Kesehatan"> */}
